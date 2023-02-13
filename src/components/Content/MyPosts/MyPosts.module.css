@@ -1,0 +1,24 @@
+/*.content {*/
+/*    grid-area: c;*/
+/*    background-color: #eee;*/
+/*    padding: 15px;*/
+/*}*/
+/*.content .top_img img {*/
+/*    width: 100%;*/
+/*}*/
+/*.content .middle_content {*/
+/*    display: flex;*/
+/*    gap: 40px;*/
+/*}*/
+.post_middle .form textarea {
+    width: 100%;
+}
+.post_middle .posts {
+    margin-top: 30px;
+}
+.post_middle .posts .post_inner {
+    background: #baffa8;
+    padding: 15px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
